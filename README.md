@@ -87,4 +87,3 @@ Run Next dev server:
 ```bash
 npm run dev
 ```
-
